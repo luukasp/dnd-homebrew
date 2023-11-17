@@ -1,4 +1,4 @@
-# Contributing to the Project
+# A Guide to Contributing
 
 To contribute to the project, please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Additionally, you must accept the project's [Creative Commons Zero (CC0) license](LICENSE).
 
